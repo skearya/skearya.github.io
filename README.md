@@ -1,2 +1,2 @@
 
-! [a] (skearya.github.io/uhh/uuh/a.png)
+! [a] (/docs/assets/330E4311-F913-4F4E-8DCC-EDFD74E261B6.png)
